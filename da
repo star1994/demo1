@@ -1,0 +1,37 @@
+[33mcommit 83e8a6248dedb7c8f8cf87e5958bc7298771478b[m
+Author: dang <doanhaidang32@gmail.com>
+Date:   Mon Feb 6 20:07:54 2017 +0700
+
+    abc
+
+[1mdiff --git a/app/views/users/index.html.erb b/app/views/users/index.html.erb[m
+[1mindex 05f3c0e..90b0400 100644[m
+[1m--- a/app/views/users/index.html.erb[m
+[1m+++ b/app/views/users/index.html.erb[m
+[36m@@ -1,6 +1,6 @@[m
+ <p id="notice"><%= notice %></p>[m
+ [m
+[31m-<h1>Users Test Demo</h1>[m
+[32m+[m[32m<h1>Users Test Demo 111</h1>[m
+ [m
+ <table>[m
+   <thead>[m
+
+[33mcommit b4c2c69a46ccde757d22991d48f8420ddb767c51[m
+Author: dang <doanhaidang32@gmail.com>
+Date:   Mon Feb 6 20:05:01 2017 +0700
+
+    change Title of Index
+
+[1mdiff --git a/app/views/users/index.html.erb b/app/views/users/index.html.erb[m
+[1mindex c3d7566..05f3c0e 100644[m
+[1m--- a/app/views/users/index.html.erb[m
+[1m+++ b/app/views/users/index.html.erb[m
+[36m@@ -1,6 +1,6 @@[m
+ <p id="notice"><%= notice %></p>[m
+ [m
+[31m-<h1>Users</h1>[m
+[32m+[m[32m<h1>Users Test Demo</h1>[m
+ [m
+ <table>[m
+   <thead>[m
